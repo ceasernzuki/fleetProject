@@ -1,2 +1,4 @@
 # fleetProject
-This is a Vehicle Management Application that manages fleet for Car Rental companies.
+
+Created and improved enhancements to a vehicle management application that manages fleet for car rental companies.
+The application improved the performance to clients having it easier to book car rentals and returning cars after use.
